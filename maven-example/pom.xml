@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.shai.test</groupId>
     <artifactId>multi-test</artifactId>
-    <version>9.14444-SNAPSHOT</version>
+    <version>9.14444</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
